@@ -8,3 +8,7 @@
 # Caution
 
  Please use UTF-8 instead of Shift_JIS.
+
+
+
+License : FREE
