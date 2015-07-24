@@ -1,14 +1,19 @@
-# Translation table for Twitter client 
+# Translation Table for Twitter Clients
 
- If you make twitter client, maybe you will need other language.
- This file is Translated the words that you use frequently in the Twitter client.
+Internationalization is an important factor for users when you release a program worldwide.
+However, developers are not always good at foreign languages.
 
-　Please add new words!
+This table helps the translations of your twitter client.
+The table provides candidate words frequently used in user interfaces of twitter clients as followings.
 
-# Caution
+* post a new tweet
+* favorite a selected tweet
+* retweet a selected tweet
+* ...
 
- Please use UTF-8 instead of Shift_JIS.
+It is expected to refer this table when you create files for internationalization.
 
+# LICENSE
 
+This table is provided in the public domain.
 
-License : FREE
