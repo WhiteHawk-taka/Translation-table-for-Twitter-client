@@ -1,4 +1,4 @@
-# Translation System of Twitter Client
+# Translation table for Twitter client 
 
  If you make twitter client, maybe you will need other language.
  This file is Translated the words that you use frequently in the Twitter client.
